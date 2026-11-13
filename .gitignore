@@ -1,0 +1,8 @@
+cookies.txt
+push_to_github.bat
+__pycache__/
+*.pyc
+*.m4a
+*.mp3
+*.opus
+*.flac
